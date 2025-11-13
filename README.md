@@ -56,3 +56,6 @@ Enable PDF and Excel export
 Integrate cloud storage for timetable data
 
 Enhance scheduling using AI-based optimization
+
+email id: "admin@sdmit.in"
+password: "admin123"
